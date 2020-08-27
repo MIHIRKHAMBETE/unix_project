@@ -1,8 +1,8 @@
-Project Title: 'Peer-graded Assignment: Bash, Make, Git, and GitHub' 
+Project Title: 'Mihir's Guessing Game Unix Project' 
 
 Date made:
 
-Wed Aug 26 22:42:21 PDT 2020
+Wed Aug 26 22:46:49 PDT 2020
 
 Lines in guessinggame.sh:
 37
